@@ -5,7 +5,7 @@ I have implemented this without any machine learning model, this was done using 
 
 https://github.com/user-attachments/assets/be03d0fc-8395-43a6-a6da-0d6ce3f9121a
 
-**Methodology :** <br>
+##**Methodology :** <br>
 ## Step 1) Applied Gaussian Blur to remove any noise in the image <br>
 
 ![Screenshot 2024-11-21 221143](https://github.com/user-attachments/assets/be6e613e-faaa-42c3-b69d-a37eba7d032d)
