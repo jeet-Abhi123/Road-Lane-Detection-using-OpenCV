@@ -3,7 +3,9 @@
 I have implemented this without any machine learning model, this was done using openCV libraries and concepts from computer vision
 
 
-https://github.com/user-attachments/assets/13274fc6-2060-44d3-afbb-704a2dab3388
+
+https://github.com/user-attachments/assets/6fc48ccf-df9d-4487-8c32-f7f782b2b830
+
 
 ## **Methodology :** <br>
 ## Step 1) Applied Gaussian Blur to remove any noise in the image <br>
