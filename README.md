@@ -4,7 +4,6 @@ I have implemented this without any machine learning model, this was done using 
 
 
 
-https://github.com/user-attachments/assets/6fc48ccf-df9d-4487-8c32-f7f782b2b830
 
 
 ## **Methodology :** <br>
