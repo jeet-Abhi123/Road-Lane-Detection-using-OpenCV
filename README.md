@@ -3,7 +3,7 @@
 I have implemented this without any machine learning model, this was done using openCV libraries and concepts from computer vision
 
 
-
+![Screenshot 2024-12-27 231210](https://github.com/user-attachments/assets/9b95828b-02ae-4dcc-b805-c2c4c51c2452)
 
 
 ## **Methodology :** <br>
